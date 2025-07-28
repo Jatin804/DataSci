@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: DataScience
+Version: 0.0.1
+Author: Jatin
+Author-email: ljatinl.reddy@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

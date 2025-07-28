@@ -1,0 +1,8 @@
+README.md
+setup.py
+DataScience.egg-info/PKG-INFO
+DataScience.egg-info/SOURCES.txt
+DataScience.egg-info/dependency_links.txt
+DataScience.egg-info/requires.txt
+DataScience.egg-info/top_level.txt
+src/__init__.py
