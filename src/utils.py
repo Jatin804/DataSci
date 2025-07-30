@@ -1,6 +1,7 @@
 # handling exception !
 
 import sys
+from src.logger import logging
 
 # error extraction ! from sys
 def error_message_detail(error, error_details:sys):
