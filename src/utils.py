@@ -56,6 +56,7 @@ def evalute_model(X_train, y_train, X_test, y_test, models, param):
         raise Custom__exception(e, sys)
 
 
+# loading pkl file
 def load_object(file_path):
     try:
         with open(file_path, "rb") as file_obj:
