@@ -43,7 +43,7 @@ Predict the **math score** of a student based on:
 1. Clone my repo, using git clone in terminal.
 2. Install dependencies : pip install -r requirements.txt
 3. Run the Flask app : python app.py
-4. In Browser : http://localhost:5000
+4. In Browser : http://localhost:5000/predictdata
 
 ## Enjoy !
 
